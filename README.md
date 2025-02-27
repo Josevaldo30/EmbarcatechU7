@@ -41,5 +41,5 @@ Este projeto consiste em um **varal automatizado** que utiliza um sensor de chuv
 - Biblioteca para o display OLED SSD1306.
 - Drivers para o motor de passo (A4988 ou DRV8825).
   
-## Considerações Finais
-Este projeto é uma solução eficiente e simples para automatizar o processo de recolhimento de roupas em varais, sendo útil em ambientes externos expostos à chuva.
+## Demonstração em vídeo
+https://youtu.be/l2_GFrP-uzs
